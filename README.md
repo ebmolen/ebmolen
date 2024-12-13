@@ -1,6 +1,7 @@
 ## Hi there 👋 ... I'm @ebmolen
 - 👀 I’m interested in ... software engineering, formal languages, programming languages...
 - 🌱 I’m currently learning ... C++, Assembly (x86-64), SQL, Git
+- 👩‍💻 I code in ... Python, Java, and C
 - 👯 I’m looking to collaborate on ... anything!
 
 - 😄 Pronouns: ... she/her
