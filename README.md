@@ -1,9 +1,10 @@
 ## Hi there 👋 ... I'm @ebmolen
 - 👀 I’m interested in ... software engineering, formal languages, programming languages...
-- 🌱 I’m currently learning ... C++, Assembly (x86-64), SQL, Git
-- 👩‍💻 I code in ... Python, Java, and C
+- 👩‍💻 I code in ... Python, Java, C++, and C
+- 🌱 I’m currently learning ... Assembly (x86-64), SQL, Git
+- ➡️ What's next? ... Haskell, Rust, and Go ...
 - 👯 I’m looking to collaborate on ... anything!
-
+- ⛰️ 🏃‍♀️ ☕️ 🎭 🎼 ... my other passions
 - 😄 Pronouns: ... she/her
 
 <!--
