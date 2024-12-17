@@ -1,6 +1,6 @@
 ## Hi there 👋 ... I'm @ebmolen
 - 👀 I’m interested in ... software engineering, formal languages, programming languages...
-- 👩‍💻 I program in ... Python, Java, C++, and C
+- 👩‍💻 I program in ... Python, Java, C, and C++
 - 🌱 I’m currently learning ... Assembly (x86-64), SQL, Git
 - ➡️ What's next? ... Haskell, Rust, and Go ...
 - 👯 I’m looking to collaborate on ... anything!
