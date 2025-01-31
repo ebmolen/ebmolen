@@ -3,7 +3,6 @@
 - 👩‍💻 I program in ... Python, Java, C, and C++
 - 🌱 I’m currently learning ... Assembly (x86-64), SQL (CS50's Introduction to Databases with SQL), Git
 - ➡️ What's next? ... Haskell, Rust, and Go ...
-- 👯 I’m looking to collaborate on ... anything!
 - ⛰️ 🏃‍♀️ ☕️ 🎭 🎼 ... my other passions
 - 😄 Pronouns: ... she/her
 
