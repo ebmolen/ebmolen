@@ -1,7 +1,7 @@
 ## Hi there 👋 ... I'm @ebmolen
 - 👀 I’m interested in ... software engineering, formal languages, programming languages...
 - 👩‍💻 I program in ... Python, Java, C, and C++
-- 🌱 I’m currently learning ... SQL (CS50's Introduction to Databases with SQL), Git, and Assembly (x86-64)
+- 🌱 I’m currently learning ... SQL (CS50's Introduction to Databases with SQL), OCaml, Git, and Assembly (x86-64)
 - ➡️ What's next? ... Haskell, Rust, and Go ...
 - ⛰️ 🏃‍♀️ ☕️ 🎭 🎼 ... my other passions
 - 😄 Pronouns: ... she/her
