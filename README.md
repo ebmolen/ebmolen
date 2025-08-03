@@ -1,6 +1,6 @@
 ## Hi there 👋 ... I'm @ebmolen
 - 👀 I’m interested in ... software engineering, formal languages, programming languages...
-- 👩‍💻 I program in ... Python, Java, C, C++, SQL, and Typescript
+- 👩‍💻 I program in ... Python, Java, C, C++, SQL, and TypeScript
 - 🌱 I’m currently learning ... SQL (CS50's Introduction to Databases with SQL), OCaml, Prolog, Git, and Assembly (x86-64)
 - ➡️ What's next? ... JavaScript, Haskell, Rust ...
 - ⛰️ 🏃‍♀️ ☕️ 🎭 🎼 ... my other passions
