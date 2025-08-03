@@ -1,7 +1,7 @@
 ## Hi there 👋 ... I'm @ebmolen
 - 👀 I’m interested in ... software engineering, formal languages, programming languages...
-- 👩‍💻 I program in ... Python, Java, C, C++, SQL, and TypeScript
-- 🌱 I’m currently learning ... OCaml, Prolog, Git, and Assembly (x86-64)
+- 👩‍💻 I program in ... Python, Java, C, C++, and SQL
+- 🌱 I’m currently learning ... TypeScript (React), OCaml, Prolog, Git, and Assembly (x86-64)
 - ➡️ What's next? ... Haskell, Rust ...
 - ⛰️ 🏃‍♀️ ☕️ 🎭 🎼 ... my other passions
 - 😄 Pronouns: ... she/her
